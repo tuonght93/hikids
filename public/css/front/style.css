@@ -1,0 +1,22 @@
+.under_line_style {
+  border-bottom: 1px solid #dadada;
+  padding-bottom: 6px;
+}
+.bank_list > ul > li {
+  float:left;  
+}
+.bank_list  ul {
+  list-style: none;
+}
+.desc {
+  font-size: 22px;
+  color: #757575;
+}
+.img-bank {
+  width: 90px;
+  padding: 5px 5px 5px 5px;
+}
+.img-active {
+  border: 1px solid #5CB85C;
+}
+

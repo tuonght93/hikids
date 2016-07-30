@@ -1,0 +1,91 @@
+#form-autosuggess .typeahead-result .row {
+    display: table-row;
+}
+ 
+#form-autosuggess .typeahead-result .row  > * {
+    display: table-cell;
+    vertical-align: middle;
+}
+ 
+#form-autosuggess .typeahead-result .username {
+    padding: 0 10px;
+}
+ 
+#form-autosuggess .typeahead-result .id {
+    font-size: 12px;
+    color: #777;
+    font-variant: small-caps;
+}
+ 
+#form-autosuggess .typeahead-result .project-logo {
+    display: inline-block;
+    height: 100px;
+}
+ 
+#form-autosuggess .typeahead-result .project-logo img {
+    height: 100%;
+}
+ 
+#form-autosuggess .typeahead-result .project-information {
+    display: inline-block;
+    vertical-align: top;
+    padding: 20px 0 0 20px;
+}
+ 
+#form-autosuggess .typeahead-result .project-information > span {
+    display: block;
+    margin-bottom: 5px;
+}
+ 
+#form-autosuggess .typeahead-result > ul > li > a small {
+    padding-left: 0px;
+    color: #999;
+}
+ 
+#form-autosuggess .typeahead-result .project-information li {
+    font-size: 12px;
+}
+/* ADD css */
+#form-autosuggess .typeahead-result .avatar img {
+    position: absolute;
+    left: 1px;
+    top: 10px;
+    height: 40px;
+    width: 50px;
+}
+
+#form-autosuggess .typeahead-result > ul > li > a {
+    padding: 12px 10px;
+    padding-left: 52px;
+    white-space: normal;
+    line-height: 16px;
+}
+
+#form-autosuggess .typeahead-result > ul > li > a .date {
+    display: block;
+    font-size: 11px;
+    color: #999999;
+    font-style: italic;
+    line-height: 18px;
+}
+
+#form-autosuggess .typeahead-result > ul > li > a .name {
+    display: block;
+    color: #555555;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 19px;
+}
+
+#form-autosuggess .typeahead-result > ul > li > a .name strong {
+    background: yellow;
+}
+
+    
+
+
+
+
+
+    
+

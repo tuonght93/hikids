@@ -1,0 +1,88 @@
+.block-flat .header h3 {
+  margin-top: 3px;
+  font-family: "Open Sans", sans-serif;
+}
+.cl-navblock li.nav-header{
+padding: 5px 0px;
+color:#c9d4f6;
+background-color: #2a2c34;
+text-align: center;
+font-size: 11px;
+text-transform: uppercase;	
+}
+.form-control-short {
+  width: 50%;
+}
+
+.alert-normal {
+  border: 1px solid;
+  border-color: #E4E2E2;
+}
+.header_color {
+ color: #3078EF;
+}
+.customer-scroll {
+  height: 400px;    overflow-y: auto;
+}
+
+.border-right {
+  border-right: 1px solid #eaeaea;
+}
+
+.alert-info{
+  text-align: center;
+  
+}
+.techup{
+  text-align: center;
+  font-size: 16px;
+  padding-top: 2%;
+}
+
+.footer-customer {
+    padding: 15px 15px;
+    margin-bottom: -16px;
+    margin-top: 47px;
+    list-style: none;
+    background-color: #D3D3D3;
+    text-align: center;
+}
+.footer-customer-admin {
+    padding: 15px 15px;
+    margin-bottom: -16px;
+    margin-top: 47px;
+    list-style: none;
+    background-color: #2B2B33;
+    text-align: center;
+}
+.footer-customer-admin a{
+  color: #DEE1E5;
+}
+.fact-data-cus {
+    margin: 25px 0;
+    vertical-align: top;
+}
+.logo-login {
+    width: 60px;
+}
+.select_width_nm {
+  width: 130px;
+}
+.select_width_sm {
+  width: 70px;
+}
+.img_logo {
+    width: 60px;
+    height: 60px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.title_logo {
+  color: #ffffff;
+}
+.redactor_editor {
+  height: 200px;
+}
+.hotline {
+  color: red;
+}
